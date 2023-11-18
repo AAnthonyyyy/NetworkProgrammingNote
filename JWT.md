@@ -40,7 +40,7 @@
   issuer：签发方
   domain：域名
   secret：密钥
-  audience：接收方
+  audience：接收方（受众）
   claim：声明（根据需要添加，自定义key和value）
   exp：过期时间
   ```
